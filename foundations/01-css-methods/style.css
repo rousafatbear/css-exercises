@@ -1,0 +1,16 @@
+div {
+    font-family: 'Ubuntu Mono', 'Times New Roman';
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    background-color: red;
+    color: white;
+}
+/* p {
+    font-family: 'Times New Roman', serif;
+    background-color: green;
+    color: white;
+}
+button {
+    background-color: orange;
+} */
