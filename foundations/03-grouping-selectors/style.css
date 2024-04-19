@@ -1,0 +1,12 @@
+.click {
+    border: darkolivegreen;
+    border-style: solid;
+}
+#first {
+    background-color: black;
+    font-weight: bold;
+    color: white;
+}
+#second {
+    background-color: yellow;
+}

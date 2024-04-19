@@ -1,0 +1,19 @@
+.oddnumber {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: pink;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#anid {
+    color: blue;
+    font-size: 36px;
+}
+
+#otherid {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
